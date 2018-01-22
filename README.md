@@ -1,6 +1,10 @@
 # Countries
 Universal iOS app with individual country data
 
+![Alt text](TableSS.png "Description goes here")
+![Alt text](DetailSS.png "Description goes here")
+
+
 ## Getting Started
 
 Explore the countries of the world with Xcode or install the app on an iOS device
